@@ -2,7 +2,7 @@
 
 > Objective: To empower individuals to discover, personalize, and track their food choices through a user-friendly web application, promoting informed decision-making and sustainable healthy eating habits.
 
-[![Demo](https://img.shields.io/badge/Demo-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://fitness-wiki-nextjs-app.vercel.app) [![Author](https://img.shields.io/badge/Author-Brisa%20D%C3%ADaz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/brisa-d%C3%ADaz)
+[![Demo](https://img.shields.io/badge/Demo-Visit%20Now-blue?style=for-the-badge&logo=vercel)](https://fitness-wiki-nextjs-app.vercel.app)
 
 ## 📸 Screenshots
 
